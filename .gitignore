@@ -4,7 +4,7 @@ node_modules/
 # Environment variables (API key, dll)
 .env
 
-# Optional (tambahan biar clean)
+
 .env.local
 .env.development
 
